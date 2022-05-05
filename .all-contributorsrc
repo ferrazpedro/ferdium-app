@@ -2722,6 +2722,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "MaxWipfli",
+      "name": "Max Wipfli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17591869?v=4",
+      "profile": "http://maxwipfli.ch",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
